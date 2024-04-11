@@ -1,0 +1,39 @@
+_repo: Four-years-in-Upper-Burma_73184
+_version: 0.0.1
+alternative_title: 4 years in Upper Burma
+creator:
+  author:
+    agent_name: Winston, W. R.
+    gutenberg_agent_id: '56977'
+    url: http://www.gutenberg.org/2009/agents/56977
+description: ''
+gutenberg_issued: '2024-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73184'
+  lccn: '50043556'
+language: en
+pgterms:marc904: https://archive.org/details/fouryearsinupper00wins
+pgterms:marc905: 20210620092732winston
+pgterms:marc906: '1892'
+pgterms:marc907: gb
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bC. H. Kelly, $c1892.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Burma, Upper -- Description and travel'
+- !lcc 'DS'
+- GITenberg
+tableOfContents: 'Introductory -- The journey to Mandalay -- Mandalay in 1887 -- The
+  people of Mandalay -- The pacification of Upper Burma -- British influence in the
+  Shan States -- Five years of British rule -- Intoxicants in Burma: the liquor question
+  -- Intoxicants in Burma: the opium question -- The frontier mountain races of Burma
+  -- Buddhism in Burma -- Burmese religious institutions and usages -- The Burmans
+  -- Burmese home life -- And true ideal missionary and a false missionary ideal --
+  Our early experiences in the Burma mission -- Further developments -- Seeking the
+  lost -- A jungle journey -- The Home for Lepers at Mandalay.'
+title: Four years in Upper Burma
+url: http://www.gutenberg.org/ebooks/73184
